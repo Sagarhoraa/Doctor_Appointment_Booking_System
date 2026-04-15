@@ -18,6 +18,6 @@ app.use(cors())// it is used because it is used to connect frontend with our bac
 //api endpoint
 
 app.get('/',(req,res)=>{
-    res.send("api is working , ko ho api ????????????? Api hamri pyari gai ho ! yehhhhhhhhhh, api hamri gai , api hamri gapi , api hamri gai , api hamri gai ")
+    res.send("api is working very very fine ohh you zing zing ")
 })
 app.listen(port,()=> console.log("server started successfully",port))
